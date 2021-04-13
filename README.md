@@ -25,4 +25,4 @@ Dépot du projet du S2 en APL
 
 ## Rapport
 
-[Lien vers le rapport](https://dwarves.iut-fbleau.fr/git/toutain/PT21_APL2020/src/master/PT21_APL_DYLAN-GIRAULT_GUILLAUME-TOUTAIN.pdf)
+[Lien vers le rapport](https://github.com/M-Kossy/Candycrush-Lite/blob/main/PT21_APL_DYLAN-GIRAULT_GUILLAUME-TOUTAIN.pdf)
