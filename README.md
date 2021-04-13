@@ -1,7 +1,7 @@
 # PT21_APL2020
-Dépot du projet du S2 en APL
+Dépot du projet du deuxième semestre en première année de DUT informatique 
 
-## Membres (groupe 5)
+## Membres
 
 * Dylan GIRAULT
 * Guillaume TOUTAIN 
@@ -9,13 +9,13 @@ Dépot du projet du S2 en APL
 ## Utilisation du Makefile
 
 ### make
- --> Compilation des bouts de code pour créer un fichier exécutable.
+ --> Compilation des bouts de code pour permettre le lancement du jeu.
  
 ### make run
- --> Lancement du fichier éxécutable / Démarrage du jeu
+ --> Démarrage du jeu.
 
 ### make clean
- --> effacement des fichiers créé avec "make"
+ --> Effacement des fichiers créé avec "make".
  
 ### make doc
  --> Créer un répertoire avec la documentation de toute les classes utilisé.
