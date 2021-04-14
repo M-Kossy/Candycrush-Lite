@@ -6,6 +6,11 @@ Dépot du projet du deuxième semestre en première année de DUT informatique
 * Dylan GIRAULT
 * Guillaume TOUTAIN 
 
+## Utilisation du jeu avec un fichier
+
+### Il faut implémenter un fichier d'extention ".txt" de taille 15x10 ne possédent que les caractères "V", "R" ou "B" correspondant respectivement à vert, rouge et bleu.
+ --> vous pouvez vous référer au fichier "test.txt".
+
 ## Utilisation du Makefile
 
 ### make
